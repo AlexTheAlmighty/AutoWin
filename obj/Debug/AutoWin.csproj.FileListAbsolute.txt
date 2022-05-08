@@ -1,0 +1,17 @@
+C:\Users\mxer1\source\repos\AutoKey\bin\Debug\AutoKey.exe.config
+C:\Users\mxer1\source\repos\AutoKey\bin\Debug\AutoKey.exe.manifest
+C:\Users\mxer1\source\repos\AutoKey\bin\Debug\AutoKey.application
+C:\Users\mxer1\source\repos\AutoKey\bin\Debug\AutoKey.exe
+C:\Users\mxer1\source\repos\AutoKey\bin\Debug\AutoKey.pdb
+C:\Users\mxer1\source\repos\AutoKey\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\mxer1\source\repos\AutoKey\obj\Debug\AutoWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\mxer1\source\repos\AutoKey\obj\Debug\AutoKey.AutoWinWindow.resources
+C:\Users\mxer1\source\repos\AutoKey\obj\Debug\AutoKey.Properties.Resources.resources
+C:\Users\mxer1\source\repos\AutoKey\obj\Debug\AutoWin.csproj.GenerateResource.cache
+C:\Users\mxer1\source\repos\AutoKey\obj\Debug\AutoWin.csproj.CoreCompileInputs.cache
+C:\Users\mxer1\source\repos\AutoKey\obj\Debug\AutoKey.TrustInfo.xml
+C:\Users\mxer1\source\repos\AutoKey\obj\Debug\AutoKey.exe.manifest
+C:\Users\mxer1\source\repos\AutoKey\obj\Debug\AutoKey.application
+C:\Users\mxer1\source\repos\AutoKey\obj\Debug\AutoWin.csproj.CopyComplete
+C:\Users\mxer1\source\repos\AutoKey\obj\Debug\AutoKey.exe
+C:\Users\mxer1\source\repos\AutoKey\obj\Debug\AutoKey.pdb
